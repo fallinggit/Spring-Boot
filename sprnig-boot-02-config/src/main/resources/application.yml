@@ -1,0 +1,30 @@
+#以数据为中心，比json、xml更适合做配置文件
+server:
+  port: 8081 #空格不能省
+spring:
+  profiles:
+    active: dev
+---
+server:
+  port: 8083
+spring:
+  profiles: dev
+---
+server:
+  port: 8084
+spring:
+  profiles: prod
+
+
+#person:
+#  age: 18
+#  boss: false
+#  birth: 1998/12/12
+#  maps: {k1: v1,k2: v2}
+#  lists:
+#    - lisi
+#    - zhaoliu
+#  dog:
+#    name: Tom
+#    age: 2
+#  last-name: zhangsan

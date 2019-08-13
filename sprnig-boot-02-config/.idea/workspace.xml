@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="801df49c-75a5-4c86-81ea-5efcde40ace5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/src/test/java/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/src/test/java/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/target/test-classes/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/target/test-classes/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-02/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-02/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/target/classes/com/guigu/springboot/SpringBoot02ConfigAutoconfigApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/target/test-classes/com/guigu/springboot/SpringBoot02ConfigAutoconfigApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/java/com/guigu/springboot/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/java/com/guigu/springboot/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/test/java/com/guigu/springboot/SpringBoot06DataMybatisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/test/java/com/guigu/springboot/SpringBoot06DataMybatisApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1PKBea9dmDN2vznt9s9jzhGAq9f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-03-logging" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SprnigBoot02ConfigApplication">
+    <configuration name="SprnigBoot02ConfigApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sprnig-boot-02-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guigu.sprnigboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.guigu.sprnigboot" />
+      <option name="MAIN_CLASS_NAME" value="com.guigu.sprnigboot.SprnigBoot02ConfigApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprnigBoot02ConfigApplicationTests.testHelloService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sprnig-boot-02-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guigu.sprnigboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.guigu.sprnigboot" />
+      <option name="MAIN_CLASS_NAME" value="com.guigu.sprnigboot.SprnigBoot02ConfigApplicationTests" />
+      <option name="METHOD_NAME" value="testHelloService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprnigBoot02ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sprnig-boot-02-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guigu.sprnigboot.SprnigBoot02ConfigApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev" />
+      <option name="PROGRAM_PARAMETERS" value="-spring.profiles.active=prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SprnigBoot02ConfigApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.SprnigBoot02ConfigApplicationTests.testHelloService" />
+      <item itemvalue="Spring Boot.SprnigBoot02ConfigApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SprnigBoot02ConfigApplicationTests.testHelloService" />
+        <item itemvalue="JUnit.SprnigBoot02ConfigApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="801df49c-75a5-4c86-81ea-5efcde40ace5" name="Default Changelist" comment="" />
+      <created>1562468553090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562468553090</updated>
+      <workItem from="1562468559870" duration="7320000" />
+      <workItem from="1565613005520" duration="789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SprnigBoot02ConfigApplicationTests_contextLoads - 2019.07.07 at 12h 57m 16s.xml">
+      <configuration name="SprnigBoot02ConfigApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SprnigBoot02ConfigApplicationTests_contextLoads - 2019.07.07 at 13h 00m 18s.xml">
+      <configuration name="SprnigBoot02ConfigApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SprnigBoot02ConfigApplicationTests_contextLoads - 2019.07.07 at 13h 04m 25s.xml">
+      <configuration name="SprnigBoot02ConfigApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SprnigBoot02ConfigApplicationTests_contextLoads - 2019.07.07 at 13h 05m 45s.xml">
+      <configuration name="SprnigBoot02ConfigApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SprnigBoot02ConfigApplicationTests_contextLoads - 2019.07.07 at 13h 06m 50s.xml">
+      <configuration name="SprnigBoot02ConfigApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SprnigBoot02ConfigApplicationTests_contextLoads - 2019.07.07 at 13h 07m 04s.xml">
+      <configuration name="SprnigBoot02ConfigApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SprnigBoot02ConfigApplicationTests_contextLoads - 2019.07.07 at 13h 12m 07s.xml">
+      <configuration name="SprnigBoot02ConfigApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SprnigBoot02ConfigApplicationTests_contextLoads - 2019.07.07 at 13h 28m 32s.xml">
+      <configuration name="SprnigBoot02ConfigApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SprnigBoot02ConfigApplicationTests_testHelloService - 2019.07.07 at 13h 39m 14s.xml">
+      <configuration name="SprnigBoot02ConfigApplicationTests.testHelloService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SprnigBoot02ConfigApplicationTests_testHelloService - 2019.07.07 at 13h 42m 36s.xml">
+      <configuration name="SprnigBoot02ConfigApplicationTests.testHelloService" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

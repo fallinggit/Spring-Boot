@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring-boot-04-web-restfulcrud:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b01a3b04-6c11-4402-ac24-4746b374b598" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/src/test/java/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/src/test/java/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/target/test-classes/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/target/test-classes/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-02/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-02/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/target/classes/com/guigu/springboot/SpringBoot02ConfigAutoconfigApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/target/test-classes/com/guigu/springboot/SpringBoot02ConfigAutoconfigApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-03-logging/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-03-logging/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/java/com/guigu/springboot/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/java/com/guigu/springboot/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/test/java/com/guigu/springboot/SpringBoot06DataMybatisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/test/java/com/guigu/springboot/SpringBoot06DataMybatisApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sprnig-boot-02-config/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sprnig-boot-02-config/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Custom</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1OgMtaUUFBqXDhWGM2c0s7AyK2K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\error" />
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\commons" />
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\emp" />
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates" />
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\java\com\guigu\springboot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates" />
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\static\asserts" />
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\error" />
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\emp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBoot04WebRestfulcrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-04-web-restfulcrud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guigu.springboot.SpringBoot04WebRestfulcrudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b01a3b04-6c11-4402-ac24-4746b374b598" name="Default Changelist" comment="" />
+      <created>1562574441417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562574441417</updated>
+      <workItem from="1562574447314" duration="9526000" />
+      <workItem from="1562663423226" duration="8569000" />
+      <workItem from="1562740129311" duration="4343000" />
+      <workItem from="1562806898616" duration="2848000" />
+      <workItem from="1562809954281" duration="2996000" />
+      <workItem from="1562812983365" duration="603000" />
+      <workItem from="1562813886151" duration="278000" />
+      <workItem from="1562814521486" duration="12691000" />
+      <workItem from="1562832133392" duration="8956000" />
+      <workItem from="1562845070380" duration="4360000" />
+      <workItem from="1562849829951" duration="2104000" />
+      <workItem from="1562924568409" duration="5481000" />
+      <workItem from="1563754284298" duration="8512000" />
+      <workItem from="1563763704312" duration="3639000" />
+      <workItem from="1563773313357" duration="7565000" />
+      <workItem from="1563793332028" duration="21765000" />
+      <workItem from="1563967846354" duration="18282000" />
+      <workItem from="1564033761316" duration="4000" />
+      <workItem from="1564395004132" duration="863000" />
+      <workItem from="1564483492798" duration="5255000" />
+      <workItem from="1564493088904" duration="1306000" />
+      <workItem from="1564541192639" duration="2246000" />
+      <workItem from="1565146229912" duration="3716000" />
+      <workItem from="1565317886572" duration="7666000" />
+      <workItem from="1565411642608" duration="1789000" />
+      <workItem from="1565418361810" duration="1735000" />
+      <workItem from="1565436226845" duration="122000" />
+      <workItem from="1565436383276" duration="903000" />
+      <workItem from="1565517455803" duration="1119000" />
+      <workItem from="1565614638663" duration="1477000" />
+      <workItem from="1565656452327" duration="1737000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1565411764747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565411764748</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1565411963310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565411963311</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1565412023616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565412023618</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1565412772630</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565412772631</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_boot_04_web_restfulcrud$SpringBoot04WebRestfulcrudApplication.ic" NAME="SpringBoot04WebRestfulcrudApplication Coverage Results" MODIFIED="1562578265267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

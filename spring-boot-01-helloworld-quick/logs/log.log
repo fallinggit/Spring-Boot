@@ -1,0 +1,14 @@
+2019-08-11 20:49:22.288  INFO 6172 --- [main] s.SpringBoot01HelloworldQuickApplication : Starting SpringBoot01HelloworldQuickApplication on LAPTOP-US74ELHI with PID 6172 (D:\Spring\spring-boot-01-helloworld-quick\target\classes started by 李久成 in D:\Spring\spring-boot-01-helloworld-quick)
+2019-08-11 20:49:22.292  INFO 6172 --- [main] s.SpringBoot01HelloworldQuickApplication : No active profile set, falling back to default profiles: default
+2019-08-11 20:49:25.170  INFO 6172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-08-11 20:49:25.213  INFO 6172 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-08-11 20:49:25.214  INFO 6172 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-11 20:49:25.229  INFO 6172 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2019-08-11 20:49:25.230  INFO 6172 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2019-08-11 20:49:25.230  INFO 6172 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2019-08-11 20:49:25.236  INFO 6172 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2019-08-11 20:49:25.479  INFO 6172 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-08-11 20:49:25.480  INFO 6172 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3117 ms
+2019-08-11 20:49:25.815  INFO 6172 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-11 20:49:26.280  INFO 6172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/boot'
+2019-08-11 20:49:26.286  INFO 6172 --- [main] s.SpringBoot01HelloworldQuickApplication : Started SpringBoot01HelloworldQuickApplication in 4.736 seconds (JVM running for 5.502)
