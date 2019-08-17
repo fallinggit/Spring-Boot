@@ -7,24 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b01a3b04-6c11-4402-ac24-4746b374b598" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/src/test/java/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/src/test/java/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/target/test-classes/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld-quick/target/test-classes/com/guigu/springboot/SpringBoot01HelloworldQuickApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-02/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-02/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-02/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/target/classes/com/guigu/springboot/SpringBoot02ConfigAutoconfigApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-02-config-autoconfig/target/test-classes/com/guigu/springboot/SpringBoot02ConfigAutoconfigApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-03-logging/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-03-logging/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/java/com/guigu/springboot/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/java/com/guigu/springboot/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/test/java/com/guigu/springboot/SpringBoot06DataMybatisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/test/java/com/guigu/springboot/SpringBoot06DataMybatisApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sprnig-boot-02-config/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sprnig-boot-02-config/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.guigu.springboot.SpringBoot04WebRestfulcrudApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.guigu.springboot.SpringBoot04WebRestfulcrudApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.guigu.springboot.SpringBoot04WebRestfulcrudApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.guigu.springboot.SpringBoot04WebRestfulcrudApplicationTests.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +91,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../itoken" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -114,25 +101,25 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates" />
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\static\asserts" />
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\error" />
+      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\emp" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\error" />
       <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\commons" />
       <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\emp" />
       <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates" />
       <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\java\com\guigu\springboot" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates" />
-      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\static\asserts" />
-      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\error" />
-      <recent name="D:\Spring\spring-boot-04-web-restfulcrud\src\main\resources\templates\emp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -197,6 +184,8 @@
       <workItem from="1565517455803" duration="1119000" />
       <workItem from="1565614638663" duration="1477000" />
       <workItem from="1565656452327" duration="1737000" />
+      <workItem from="1566028898334" duration="1402000" />
+      <workItem from="1566042162249" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1565411764747</created>
