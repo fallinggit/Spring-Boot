@@ -1,24 +1,23 @@
 package com.guigu.springboot.config;
 
+
 import com.guigu.springboot.component.LoginHandlerInterceptor;
 import com.guigu.springboot.component.MyLocaleResolver;
-import org.springframework.beans.factory.annotation.Autowired;
-//import org.springframework.boot.context.embedded.ConfigurableEmbeddedServletContainer;
-//import org.springframework.boot.context.embedded.EmbeddedServletContainerCustomizer;
 import org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory;
-import org.springframework.boot.web.server.WebServerFactoryCustomizer;
 import org.springframework.boot.web.servlet.server.ConfigurableServletWebServerFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.LocaleResolver;
-import org.springframework.web.servlet.config.annotation.*;
-import org.springframework.web.servlet.handler.UserRoleAuthorizationInterceptor;
+import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
+import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
 //使用WebMvcConfigurerAdapter可以扩展SpringMVC的功能
 //@EnableWebMvc //全面接管MVC，SpringBoot对SpringMvc的自动配置舍弃，自己手动配置
 @Configuration
 //方法一
-public class MyMvcConfig extends WebMvcConfigurerAdapter{
+public class MyMvcConfig extends WebMvcConfigurerAdapter {
 
     //springboot2.x版本
     @Configuration
@@ -41,7 +40,7 @@ public class MyMvcConfig extends WebMvcConfigurerAdapter{
 
     //所有的WebMvcConfigurerAdapter组件会一起起作用
     @Bean //将组件注册到容器中
-    public WebMvcConfigurerAdapter webMvcConfigurerAdapter(){
+    public WebMvcConfigurerAdapter webMvcConfigurerAdapter (){
         WebMvcConfigurerAdapter adapter = new WebMvcConfigurerAdapter() {
             @Override
             public void addViewControllers(ViewControllerRegistry registry) {
@@ -55,9 +54,9 @@ public class MyMvcConfig extends WebMvcConfigurerAdapter{
             //注册拦截器
             @Override
             public void addInterceptors(InterceptorRegistry registry) {
-                //super.addInterceptors(registry);
-                // "/**"表示拦截任意路径下的任意请求
-                //SpringBoot已经做好了静态资源映射
+                super.addInterceptors(registry);
+                 //"/**"表示拦截任意路径下的任意请求
+//                SpringBoot已经做好了静态资源映射
 //                registry.addInterceptor(new LoginHandlerInterceptor()).addPathPatterns("/**")
 //                        .excludePathPatterns("/index.html","/","/user/login");
             }

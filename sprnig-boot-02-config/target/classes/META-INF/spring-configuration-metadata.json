@@ -2,45 +2,45 @@
   "groups": [
     {
       "name": "person",
-      "type": "com.guigu.sprnigboot.bean.Person",
-      "sourceType": "com.guigu.sprnigboot.bean.Person"
+      "type": "com.guigu.springboot.bean.Person",
+      "sourceType": "com.guigu.springboot.bean.Person"
     }
   ],
   "properties": [
     {
       "name": "person.age",
       "type": "java.lang.Integer",
-      "sourceType": "com.guigu.sprnigboot.bean.Person"
+      "sourceType": "com.guigu.springboot.bean.Person"
     },
     {
       "name": "person.birth",
       "type": "java.util.Date",
-      "sourceType": "com.guigu.sprnigboot.bean.Person"
+      "sourceType": "com.guigu.springboot.bean.Person"
     },
     {
       "name": "person.boss",
       "type": "java.lang.Boolean",
-      "sourceType": "com.guigu.sprnigboot.bean.Person"
+      "sourceType": "com.guigu.springboot.bean.Person"
     },
     {
       "name": "person.dog",
-      "type": "com.guigu.sprnigboot.bean.Dog",
-      "sourceType": "com.guigu.sprnigboot.bean.Person"
+      "type": "com.guigu.springboot.bean.Dog",
+      "sourceType": "com.guigu.springboot.bean.Person"
     },
     {
       "name": "person.last-name",
       "type": "java.lang.String",
-      "sourceType": "com.guigu.sprnigboot.bean.Person"
+      "sourceType": "com.guigu.springboot.bean.Person"
     },
     {
       "name": "person.lists",
       "type": "java.util.List<java.lang.Object>",
-      "sourceType": "com.guigu.sprnigboot.bean.Person"
+      "sourceType": "com.guigu.springboot.bean.Person"
     },
     {
       "name": "person.maps",
       "type": "java.util.Map<java.lang.String,java.lang.Object>",
-      "sourceType": "com.guigu.sprnigboot.bean.Person"
+      "sourceType": "com.guigu.springboot.bean.Person"
     }
   ],
   "hints": []

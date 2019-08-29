@@ -5,8 +5,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 import com.guigu.springboot.entities.Department;
+import lombok.Data;
 import org.springframework.stereotype.Repository;
-
 
 @Repository
 public class DepartmentDao {
@@ -26,9 +26,9 @@ public class DepartmentDao {
 	public Collection<Department> getDepartments(){
 		return departments.values();
 	}
-	
+
 	public Department getDepartment(Integer id){
 		return departments.get(id);
 	}
-	
+
 }

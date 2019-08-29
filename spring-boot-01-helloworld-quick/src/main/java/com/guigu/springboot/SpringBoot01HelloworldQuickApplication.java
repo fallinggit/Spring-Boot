@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 默认不支持JSP页面)；可以使用模板引擎(freemarker、thymeleaf);
  * 3.application.properties:Spring Boot用于的配置文件；可以修改一些默认设置
  */
-@RestController
+//@RestController
 @SpringBootApplication
 public class SpringBoot01HelloworldQuickApplication {
 

@@ -6,10 +6,9 @@ import java.util.Map;
 
 import com.guigu.springboot.entities.Department;
 import com.guigu.springboot.entities.Employee;
+import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
-
-
 
 @Repository
 public class EmployeeDao {

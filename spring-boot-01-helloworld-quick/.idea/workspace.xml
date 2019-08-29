@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be6d9ec5-93e6-45a3-87ee-4286774f22c4" name="Default Changelist" comment="" />
+    <list default="true" id="be6d9ec5-93e6-45a3-87ee-4286774f22c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/logs/log.log.2019-08-11.0.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_helloworld/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guigu/springboot/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guigu/springboot/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guigu/springboot/SpringBoot01HelloworldQuickApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guigu/springboot/SpringBoot01HelloworldQuickApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guigu/springboot/SpringBoot01HelloworldQuickApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/guigu/springboot/SpringBoot01HelloworldQuickApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/spring-boot-04-web-restfulcrud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/spring-boot-04-web-restfulcrud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/component/MyErrorAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/component/MyErrorAttributes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/config/MyMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/config/MyMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/dao/EmployeeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/dao/EmployeeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/entities/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/entities/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/entities/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/src/main/java/com/guigu/springboot/entities/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/target/classes/com/guigu/springboot/config/MyMvcConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/target/classes/com/guigu/springboot/config/MyMvcConfig$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/target/classes/com/guigu/springboot/config/MyMvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/target/classes/com/guigu/springboot/config/MyMvcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/target/classes/com/guigu/springboot/dao/EmployeeDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/target/classes/com/guigu/springboot/dao/EmployeeDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/target/classes/com/guigu/springboot/entities/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/target/classes/com/guigu/springboot/entities/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/target/classes/com/guigu/springboot/entities/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web-restfulcrud/target/classes/com/guigu/springboot/entities/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_helloworld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_helloworld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_helloworld/springboot_helloworld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_helloworld/src/main/java/com/guigu/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_helloworld/src/main/java/com/guigu/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_helloworld/target/classes/com/guigu/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_helloworld/target/classes/com/guigu/controller/HelloController.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +84,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot-01-cache" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sprnig-boot-02-config" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -156,6 +183,8 @@
       <workItem from="1565591579064" duration="157000" />
       <workItem from="1565611855860" duration="798000" />
       <workItem from="1565680983413" duration="9000" />
+      <workItem from="1566958256640" duration="182000" />
+      <workItem from="1566958903177" duration="368000" />
     </task>
     <task id="LOCAL-00001" summary="commit second">
       <created>1565528059297</created>

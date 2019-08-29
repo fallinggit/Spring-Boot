@@ -3,7 +3,7 @@ server:
   port: 8081 #空格不能省
 spring:
   profiles:
-    active: dev
+    active: dev #激活配置
 ---
 server:
   port: 8083

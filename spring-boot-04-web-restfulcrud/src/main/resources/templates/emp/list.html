@@ -46,7 +46,8 @@
 <!-- 引入抽取的topbar-->
 <!--模板名：会使用thymeleaf的前后缀配置规则进行解析-->
 <div th:replace="commons/bar::topbar"></div>
-<!--<div th:replace="dashboard::topbar"></div>--><!--th:replace="~{dashboard::topbar}"-->
+<!--th:replace="~{dashboard::topbar}"-->
+<!--<div th:replace="dashboard::topbar"></div>-->
 
 <div class="container-fluid">
     <div class="row">
@@ -81,6 +82,7 @@
                             <td th:text="${#dates.format(emp.birth,'yyyy-MM-dd HH:mm')}"></td>
                             <td>
                                 <!--                                +${emp.id}-->
+<!--                                小号蓝颜色-->
                                 <a class="btn btn-sm btn-primary" th:href="@{/emp/}+${emp.id}">编辑</a>
                                 <button th:attr="del_uri=@{/emp/}+${emp.id}" type="submit"
                                         class="btn btn-sm btn-danger deletebtn">删除

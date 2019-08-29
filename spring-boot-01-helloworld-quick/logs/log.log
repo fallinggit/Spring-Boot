@@ -1,14 +1,31 @@
-2019-08-11 20:49:22.288  INFO 6172 --- [main] s.SpringBoot01HelloworldQuickApplication : Starting SpringBoot01HelloworldQuickApplication on LAPTOP-US74ELHI with PID 6172 (D:\Spring\spring-boot-01-helloworld-quick\target\classes started by 李久成 in D:\Spring\spring-boot-01-helloworld-quick)
-2019-08-11 20:49:22.292  INFO 6172 --- [main] s.SpringBoot01HelloworldQuickApplication : No active profile set, falling back to default profiles: default
-2019-08-11 20:49:25.170  INFO 6172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
-2019-08-11 20:49:25.213  INFO 6172 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2019-08-11 20:49:25.214  INFO 6172 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
-2019-08-11 20:49:25.229  INFO 6172 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
-2019-08-11 20:49:25.230  INFO 6172 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
-2019-08-11 20:49:25.230  INFO 6172 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
-2019-08-11 20:49:25.236  INFO 6172 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
-2019-08-11 20:49:25.479  INFO 6172 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
-2019-08-11 20:49:25.480  INFO 6172 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3117 ms
-2019-08-11 20:49:25.815  INFO 6172 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
-2019-08-11 20:49:26.280  INFO 6172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/boot'
-2019-08-11 20:49:26.286  INFO 6172 --- [main] s.SpringBoot01HelloworldQuickApplication : Started SpringBoot01HelloworldQuickApplication in 4.736 seconds (JVM running for 5.502)
+2019-08-28 10:12:32.902  INFO 26332 --- [main] s.SpringBoot01HelloworldQuickApplication : Starting SpringBoot01HelloworldQuickApplication on LAPTOP-US74ELHI with PID 26332 (D:\GIT\Spring-Boot\spring-boot-01-helloworld-quick\target\classes started by 李久成 in D:\GIT\Spring-Boot\spring-boot-01-helloworld-quick)
+2019-08-28 10:12:32.921  INFO 26332 --- [main] s.SpringBoot01HelloworldQuickApplication : No active profile set, falling back to default profiles: default
+2019-08-28 10:12:35.694  INFO 26332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-08-28 10:12:35.756  INFO 26332 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-08-28 10:12:35.758  INFO 26332 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-28 10:12:35.783  INFO 26332 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2019-08-28 10:12:35.784  INFO 26332 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2019-08-28 10:12:35.784  INFO 26332 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2019-08-28 10:12:35.807  INFO 26332 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2019-08-28 10:12:36.173  INFO 26332 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-08-28 10:12:36.174  INFO 26332 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3136 ms
+2019-08-28 10:12:36.567  INFO 26332 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-28 10:12:37.065  INFO 26332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/boot'
+2019-08-28 10:12:37.070  INFO 26332 --- [main] s.SpringBoot01HelloworldQuickApplication : Started SpringBoot01HelloworldQuickApplication in 5.01 seconds (JVM running for 5.943)
+2019-08-28 10:21:57.582  INFO 24872 --- [main] s.SpringBoot01HelloworldQuickApplication : Starting SpringBoot01HelloworldQuickApplication on LAPTOP-US74ELHI with PID 24872 (D:\GIT\Spring-Boot\spring-boot-01-helloworld-quick\target\classes started by 李久成 in D:\GIT\Spring-Boot\spring-boot-01-helloworld-quick)
+2019-08-28 10:21:57.587  INFO 24872 --- [main] s.SpringBoot01HelloworldQuickApplication : No active profile set, falling back to default profiles: default
+2019-08-28 10:22:00.204  INFO 24872 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-08-28 10:22:00.265  INFO 24872 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-08-28 10:22:00.266  INFO 24872 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-28 10:22:00.306  INFO 24872 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2019-08-28 10:22:00.308  INFO 24872 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2019-08-28 10:22:00.309  INFO 24872 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2019-08-28 10:22:00.326  INFO 24872 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2019-08-28 10:22:00.720  INFO 24872 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-08-28 10:22:00.720  INFO 24872 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3046 ms
+2019-08-28 10:22:01.192  INFO 24872 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-28 10:22:01.611  INFO 24872 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/boot'
+2019-08-28 10:22:01.616  INFO 24872 --- [main] s.SpringBoot01HelloworldQuickApplication : Started SpringBoot01HelloworldQuickApplication in 4.766 seconds (JVM running for 5.596)
+2019-08-28 10:22:26.121  INFO 24872 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-28 10:22:26.121  INFO 24872 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-08-28 10:22:26.130  INFO 24872 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
