@@ -4,6 +4,7 @@ import javax.persistence.*;
 
 //配置映射关系
 @Entity//告诉JPA这是一个实体类（和数据表映射的类）
+//自动创建数据库表
 @Table(name = "tbl_user")//@Table来指定和哪个数据表对应，如果省略，默认表名就是user
 public class User {
 
