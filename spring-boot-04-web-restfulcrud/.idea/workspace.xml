@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b01a3b04-6c11-4402-ac24-4746b374b598" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/java/com/guigu/springboot/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/java/com/guigu/springboot/entity/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-06-data-jpa/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +88,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-06-data-jpa" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -193,6 +192,11 @@
       <workItem from="1567559399431" duration="1271000" />
       <workItem from="1567826997202" duration="5611000" />
       <workItem from="1568182029993" duration="7892000" />
+      <workItem from="1569062473303" duration="81000" />
+      <workItem from="1569503590955" duration="958000" />
+      <workItem from="1569807336912" duration="55000" />
+      <workItem from="1569808578752" duration="1626000" />
+      <workItem from="1570706704403" duration="821000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1565411764747</created>

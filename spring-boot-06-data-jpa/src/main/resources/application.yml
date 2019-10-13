@@ -11,3 +11,5 @@ spring:
       ddl-auto: update
 #      控制台显示SOL
     show-sql: true
+server:
+  port: 8081
